@@ -1,0 +1,9 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN">
+    <voice name="zh-CN-XiaoxuanNeural">
+      
+        <mstts:express-as role="Girl" style="friendly"><mstts:silence type="comma-exact" value="200ms"/><mstts:silence type="enumerationcomma-exact" value="400ms"/>
+          再坚持一下，游戏就要结束了，
+        </mstts:express-as>
+       
+    </voice>
+</speak>

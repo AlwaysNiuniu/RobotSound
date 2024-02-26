@@ -1,0 +1,9 @@
+生成语音步骤及所需文档：
+
+1.所需文档：一个生成语音的python代码（AzureTextToSpeach.py） + 一个控制声音属性的txt文档（例如，robotlwr）
+
+2.步骤：
+--《注意》：在开始运行代码前，需要在 设置→系统→系统信息→系统属性→环境变量 里建立 SPEECH_KEY 和 SPEECH_REGION 两个用户变量，它们的值请参考自己的Azure账号。
+-- 在txt文档里修改声音属性
+-- 在cmd里执行python代码，生成语音。（首先进入python代码所在的磁盘，然后进入其所在目录，执行 python xxx.py ）
+
